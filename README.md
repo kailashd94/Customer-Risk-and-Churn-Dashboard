@@ -1,4 +1,4 @@
-# Customer-Experience-and-Churn-Dashboard
+# Customer-Risk-and-Churn-Dashboard
 
 **Technology used Power BI**:Used for creating interactive dashboard and intial data preprocessing ,calculation and creating Quick summaries.
 
